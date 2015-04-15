@@ -1,6 +1,6 @@
 {
   "name": "wkhtmltopdf-win",
-  "version": "0.12.2.2",
+  "version": "0.12.2",
   "homepage": "https://github.com/tylerlong/wkhtmltopdf-win",
   "authors": [
     "Tyler Long <tyler4long@gmail.com>"
