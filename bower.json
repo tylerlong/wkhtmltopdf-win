@@ -1,0 +1,22 @@
+{
+  "name": "wkhtmltopdf-win",
+  "version": "0.12.2.2",
+  "homepage": "https://github.com/tylerlong/wkhtmltopdf-win",
+  "authors": [
+    "Tyler Long <tyler4long@gmail.com>"
+  ],
+  "description": "wkhtmltopdf.exe",
+  "main": "wkhtmltopdf.exe",
+  "keywords": [
+    "wkhtmltopdf"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "README.md"
+  ]
+}
